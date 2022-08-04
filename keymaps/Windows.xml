@@ -1,0 +1,7 @@
+<keymap version="1" name="Windows 복사" parent="$default">
+  <action id="ExecuteInPyConsoleAction">
+    <keyboard-shortcut first-keystroke="ctrl r" />
+  </action>
+  <action id="Replace" />
+  <action id="UsageFiltering.ReadAccess" />
+</keymap>
